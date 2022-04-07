@@ -4,24 +4,24 @@
 */
 
 body {
-  padding: 25px;
+  padding: 10px;
 }
 
 h2 {
-  color: #ff1a1a;
+  color: #ff1a94;
   font: 60pt "Times New Roman", Times, serif;
   font-weight: bold;
   line-height: 20pt;
 }
 
 p {
-  color: #986a06;
+  color: #ff600a;
   font-family: "Times New Roman", Times, serif;
   font-size: 1.5rem;
 }
 
 h3 {
-  color: #6f1515;
+  color: #cc7019;
   font: 15pt "Times New Roman", Times, serif;
   font-weight: bold;
   line-height: 16pt;
